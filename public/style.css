@@ -18,7 +18,7 @@ canvas {
 }
 @font-face {
   font-family: "Press Start 2P", cursive;
-  src: url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap')
+  src: url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
   font-weight: normal;
   font-style: normal;
 }
